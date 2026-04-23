@@ -5,23 +5,23 @@ We help teams move from “buy and install” to “subscribe and run” by comb
 
 ## What we do
 
-- **Software marketplace**: discover and purchase software products.
-- **Managed hosting**: run software directly in our cloud environment.
-- **Reliable operations**: focus on your product while we handle platform availability and core infrastructure.
+- **Software marketplace**: Discover and purchase software products.
+- **Managed hosting**: Run software directly in our cloud environment.
+- **Reliable operations**: Focus on your product while we handle platform availability and core infrastructure.
 
 ## Who this is for
 
 ServedSoftware is built for:
 
-- customers who want fast onboarding without complex setup
-- software vendors who want a simpler way to distribute and host their products
-- teams that need predictable, cloud-based software operations
+- Customers who want fast onboarding without complex setup.
+- Software vendors who want a simpler way to distribute and host their products.
+- Teams that need predictable, cloud-based software operations.
 
 ## Why ServedSoftware
 
-- **Fast start**: reduce setup time and get software running quickly.
-- **Single platform**: manage software access and hosting from one place.
-- **Operational confidence**: run on an infrastructure designed for stability and reliability.
+- **Fast start**: Reduce setup time and get software running quickly.
+- **Single platform**: Manage software access and hosting from one place.
+- **Operational confidence**: Run on an infrastructure designed for stability and reliability.
 
 ## Releases
 
